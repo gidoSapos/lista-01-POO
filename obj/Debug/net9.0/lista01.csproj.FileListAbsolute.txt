@@ -12,3 +12,4 @@ C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista01\obj\De
 C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista01\obj\Debug\net9.0\lista01.pdb
 C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista01\obj\Debug\net9.0\lista01.genruntimeconfig.cache
 C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista01\obj\Debug\net9.0\ref\lista01.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista01\obj\Debug\net9.0\lista01.sourcelink.json

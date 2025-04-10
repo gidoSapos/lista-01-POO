@@ -11,7 +11,7 @@ namespace lista01
         //Metodo, mesma coisa do def no python Fucção
         public string Ligar()
         {
-             return "O carro tá ligado";
+             return "O carro está ligado";
         }
         public void Mensagem()
         {

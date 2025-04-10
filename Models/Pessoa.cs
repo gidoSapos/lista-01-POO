@@ -12,7 +12,7 @@ namespace lista01
         {
             return $"Olá {Nome}, você tem mais ou menos {Idade - 100} anos, em tempo de vida.";
         }
-        public int IdadeEmAnos()
+        public int IdadeEmMeses()
         {
             return Idade * 12;
         }
